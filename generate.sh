@@ -24,6 +24,8 @@ curl https://dps.report/getJson?permalink=Pcig-20190718-190432_golem > chrono_co
 curl https://dps.report/getJson?permalink=F312-20190724-150624_golem > chrono_power_illu.json
 # Trace https://www.youtube.com/watch?v=AwFK2o_EvMM
 curl https://dps.report/getJson?permalink=Sn6H-20190722-160751_golem > chrono_power_domi.json
+# Daed Dee https://www.youtube.com/watch?v=5LjXTCC2VwQ
+curl https://dps.report/getJson?permalink=tM5T-20191101-034804_golem > chrono_power_domi_focus.json
 # ZachAttack
 curl https://dps.report/getJson?permalink=nczG-20191005-164253_golem > chrono_power_quick_gs.json
 # Baguette https://www.youtube.com/watch?v=uMJvxIiXt_s

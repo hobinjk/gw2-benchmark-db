@@ -9,6 +9,7 @@ let benches = [
   require('./chrono_condi_boon.json'),
   require('./chrono_power_boon.json'),
   require('./chrono_power_domi.json'),
+  require('./chrono_power_domi_focus.json'),
   require('./chrono_power_illu.json'),
   require('./chrono_power_quick_gs.json'),
   require('./chrono_power_quick_focus.json'),
